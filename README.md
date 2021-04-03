@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @anarotela18
+- 🌱 I’m currently learning about Web Development
