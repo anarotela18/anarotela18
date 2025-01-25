@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @anarotela18
-- 🌱 I’m currently learning about Web Development
+
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
