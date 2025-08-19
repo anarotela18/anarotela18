@@ -2,9 +2,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [anarotela18/dog-api-project](https://github.com/anarotela18/dog-api-project)<br>
-2. ⬆️ Pushed 1 commit(s) to [anarotela18/dog-api-project](https://github.com/anarotela18/dog-api-project)<br>
-3. ⬆️ Pushed 1 commit(s) to [anarotela18/dog-api-project](https://github.com/anarotela18/dog-api-project)<br>
+1. ⬆️ Pushed 2 commit(s) to [anarotela18/portafolio-web](https://github.com/anarotela18/portafolio-web)<br>
+2. 🎉 Merged PR [#1](https://github.com/anarotela18/portafolio-web/pull/1) in [anarotela18/portafolio-web](https://github.com/anarotela18/portafolio-web)<br>
+3. 💪 Opened PR [#1](https://github.com/anarotela18/portafolio-web/pull/1) in [anarotela18/portafolio-web](https://github.com/anarotela18/portafolio-web)<br>
 4. ⬆️ Pushed 1 commit(s) to [anarotela18/dog-api-project](https://github.com/anarotela18/dog-api-project)<br>
-5. 📔 Created new repository [anarotela18/curso-react-cero-experto](https://github.com/anarotela18/curso-react-cero-experto)<br>
+5. ⬆️ Pushed 1 commit(s) to [anarotela18/dog-api-project](https://github.com/anarotela18/dog-api-project)<br>
 <!--RECENT_ACTIVITY:end-->
